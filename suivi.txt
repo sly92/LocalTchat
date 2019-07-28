@@ -1,0 +1,23 @@
+Projet : localchat
+
+Developpeurs : Nordine Zerai, Slaheddine Bejaoui
+
+Documentations : presentation.pdf, cahier_des_charges.pdf 
+
+Scripts : data_encrypt_standard.c 
+
+à faire avant le 20/10/16 : 
+- script de cryptage et de decryptage D.E.S. ( data encrypt standard ) de chaine de caractere : Nordine
+  * fonction crypte(char[] message) 
+  * fonction decrypte(char[] message_crypt)
+- script du serveur : Slaheddine
+- script du client : Slaheddine
+
+à faire avant le 27/10/16 :
+
+- presentation.pdf #
+- cahier_des_charges.pdf #
+- bilan
+- architecture
+- diagramme d'appels de fonction
+- fasicule
